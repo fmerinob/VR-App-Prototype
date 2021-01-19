@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Camaro ZL1 2017
+Author: Kris Tong
+URL: https://poly.google.com/view/7bF7UVAoYRG
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dark Frame 001
+Author: Julia Farley
+URL: https://poly.google.com/view/1s8e3FM_pW3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: easel
+Author: Watson Hartsoe
+URL: https://poly.google.com/view/dEJsje97upX
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mesa de carretel
+Author: Tio Jota Lopes
+URL: https://poly.google.com/view/1OObAdGt3hK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pikachu
+Author: Tiegan Carey
+URL: https://poly.google.com/view/7UqdtEMrGTS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
